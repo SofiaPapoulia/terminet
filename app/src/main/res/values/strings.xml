@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Terminet</string>
+
+    <string name="please_wait">Please Wait...</string>
+    <string name="copyright">All rights reserved EIGHT BELLS LTD</string>
+    <string name="copyright2">© 2022 TERMINET consortium</string>
+    <string name="rights">This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 957406. The information contained in this website reflects only the authors’ view. EC is not responsible for any use that may be made of this information</string>
+
+    <!-- Home Page -->
+    <string name="scan"> Scan </string>
+    <string name="history"> History </string>
+    <string name="toolbar_title_scan"> Scan </string>
+    <string name="toolbar_title_history"> History </string>
+
+    <!-- Settings -->
+    <string name="settings"> Settings </string>
+    <string name="copy_to_clipboard"> Copy to Clipboard </string>
+    <string name="about_us"> About Us </string>
+    <string name="private_policy"> Private Policy</string>
+
+    <!-- Scan Page -->
+    <string name="open_livestream"> Open Livestream </string>
+    <string name="dateScanned"> Date: %s</string>
+    <string name="message"> Message </string>
+    <string name="error_occurred_while_scanning"> An Error Occurred While Scanning</string>
+    <string name="error_did_not_find_any_content">Did not Find An Content. Please Try Again With Different Image</string>
+    <string name="toolbar_title_scan_result">Scan Result</string>
+
+    <string name="app_version"> App Version: v1.0.0</string>
+    <string name="something_wrong"> Something Went Wrong</string>
+    <string name="title_activity_history">HistoryActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_steps">StepsActivity</string>
+
+</resources>
+

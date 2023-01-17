@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sophia/AndroidStudioProjects/terminet/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1484375" />
+        <entry key="..\:/Users/sophia/AndroidStudioProjects/terminet/app/src/main/res/drawable/btn_shape_round.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/sophia/AndroidStudioProjects/terminet/app/src/main/res/drawable/ic_launcher_background.xml" value="2.6" />
+        <entry key="..\:/Users/sophia/AndroidStudioProjects/terminet/app/src/main/res/drawable/rounded_corner.xml" value="1.1142857142857143" />
+        <entry key="..\:/Users/sophia/AndroidStudioProjects/terminet/app/src/main/res/drawable/rounded_corner_back.xml" value="0.6571428571428571" />
+        <entry key="..\:/Users/sophia/AndroidStudioProjects/terminet/app/src/main/res/drawable/rounded_corner_history.xml" value="1.4107142857142858" />
+        <entry key="..\:/Users/sophia/AndroidStudioProjects/terminet/app/src/main/res/drawable/rounded_corner_home.xml" value="0.37916666666666665" />
+        <entry key="..\:/Users/sophia/AndroidStudioProjects/terminet/app/src/main/res/drawable/rounded_corner_scan.xml" value="1.4107142857142858" />
+        <entry key="..\:/Users/sophia/AndroidStudioProjects/terminet/app/src/main/res/drawable/rounded_corner_settings.xml" value="2.0464285714285713" />
+        <entry key="..\:/Users/sophia/AndroidStudioProjects/terminet/app/src/main/res/layout/activity_history_results.xml" value="0.8035714285714286" />
+        <entry key="..\:/Users/sophia/AndroidStudioProjects/terminet/app/src/main/res/layout/activity_home.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/sophia/AndroidStudioProjects/terminet/app/src/main/res/layout/activity_indicator_solution.xml" value="0.3458333333333333" />
+        <entry key="..\:/Users/sophia/AndroidStudioProjects/terminet/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/sophia/AndroidStudioProjects/terminet/app/src/main/res/layout/activity_results.xml" value="0.6" />
+        <entry key="..\:/Users/sophia/AndroidStudioProjects/terminet/app/src/main/res/layout/activity_settings.xml" value="0.6381578947368421" />
+        <entry key="..\:/Users/sophia/AndroidStudioProjects/terminet/app/src/main/res/layout/activity_solution.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/sophia/AndroidStudioProjects/terminet/app/src/main/res/layout/activity_splash.xml" value="0.3671875" />
+        <entry key="..\:/Users/sophia/AndroidStudioProjects/terminet/app/src/main/res/layout/activity_steps.xml" value="0.29638273045507585" />
+        <entry key="..\:/Users/sophia/AndroidStudioProjects/terminet/app/src/main/res/layout/background.xml" value="0.3671875" />
+        <entry key="..\:/Users/sophia/AndroidStudioProjects/terminet/app/src/main/res/layout/content_history.xml" value="0.6381578947368421" />
+        <entry key="..\:/Users/sophia/AndroidStudioProjects/terminet/app/src/main/res/layout/fragment_first.xml" value="0.6381578947368421" />
+        <entry key="..\:/Users/sophia/AndroidStudioProjects/terminet/app/src/main/res/layout/fragment_second.xml" value="0.6381578947368421" />
+        <entry key="..\:/Users/sophia/AndroidStudioProjects/terminet/app/src/main/res/layout/loading_page.xml" value="0.5" />
+        <entry key="..\:/Users/sophia/AndroidStudioProjects/terminet/app/src/main/res/layout/my_row.xml" value="0.3727422003284072" />
+        <entry key="..\:/Users/sophia/AndroidStudioProjects/terminet/app/src/main/res/layout/styles.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
